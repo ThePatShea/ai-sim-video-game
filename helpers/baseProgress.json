@@ -1,0 +1,36 @@
+{
+  "friendship": {
+    "BFF": 0,
+    "Best Friend": 0,
+    "Inseparable": 0,
+    "Close Friend": 0,
+    "Great Friend": 0,
+    "Good Friend": 0,
+    "Friend": 0,
+    "Buddy": 0,
+    "Pal": 0,
+    "Acquaintance": 0,
+    "Opponent": 0,
+    "Rival": 0,
+    "Foe": 0,
+    "Adversary": 0,
+    "Antagonist": 0,
+    "Enemy": 0,
+    "Villain": 0,
+    "Malefactor": 0,
+    "Nemesis": 0,
+    "Arch Nemesis": 0
+  },
+  "romance": {
+    "Soulmate": 0,
+    "In Love": 0,
+    "Cherished": 0,
+    "Devoted": 0,
+    "Committed": 0,
+    "Harmonious": 0,
+    "Enamored": 0,
+    "Romantic": 0,
+    "Interested": 0,
+    "Flirty": 0
+  }
+}

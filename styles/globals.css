@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  user-select: none;
+}
+
+img {
+  pointer-events: none;
+}
+
+@keyframes fadeInOut {
+    0%, 100% { opacity: 0; }
+    10%, 90% { opacity: 1; }
+}
+
+.animate-fadeInOut {
+    animation: fadeInOut 2s ease-in-out;
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "id": 0,
+    "name": "PrismSports Soccer Ball",
+    "description": "Behold, the PrismSports Soccer Ball, a marvel of the pitch that transcends the mere concept of a simple soccer ball. Forged from the essence of the game itself, this spherical artifact is the key to unlocking unparalleled experiences on the field. Its surface, a tapestry of craftsmanship, gleams with the promise of legendary matches and untold stories of victory. It's not just an object to own but a treasure to be wielded, carrying with it the spirit of competition and the joy of sport. Whether you're a seasoned player or a budding enthusiast, the PrismSports Soccer Ball is your passport to a realm where every kick weaves part of the grand tapestry of soccer lore. Available now for those daring to leave their mark on the field.",
+    "image": "/images/items/soccer-ball-0.jpeg",
+    "amountOwned": 0,
+    "price": 25,
+    "tags": ["sport", "soccer"]
+  },
+  {
+    "id": 1,
+    "name": "PrismSports Basketball",
+    "description": "A simple basketball",
+    "image": "/images/items/basketball-0.jpeg",
+    "amountOwned": 0,
+    "price": 30,
+    "tags": ["sport", "basketball"]
+  },
+  {
+    "id": 2,
+    "name": "TalineTech Smartphone",
+    "description": "A mid-range smartphone",
+    "image": "/images/items/smartphone-0.jpeg",
+    "amountOwned": 0,
+    "price": 500,
+    "tags": ["electronic", "smartphone"]
+  },
+  {
+    "id": 3,
+    "name": "FlareMotors Watercraft",
+    "description": "A luxury personal watercraft",
+    "image": "/images/items/watercraft-0.jpeg",
+    "amountOwned": 0,
+    "price": 15000,
+    "tags": ["vehicle", "watercraft"]
+  },
+  {
+    "id": 4,
+    "name": "FlareMotors Car",
+    "description": "A luxury car",
+    "image": "/images/items/car-0.jpeg",
+    "amountOwned": 0,
+    "price": 300000,
+    "tags": ["vehicle", "car"]
+  },
+  {
+    "id": 5,
+    "name": "FlareMotors Helicopter",
+    "description": "A luxury helicopter",
+    "image": "/images/items/helicopter-0.jpeg",
+    "amountOwned": 0,
+    "price": 5000000,
+    "tags": ["vehicle", "helicopter"]
+  }
+]

@@ -1,0 +1,1429 @@
+[
+  {
+    "id": 0,
+    "name": "Make 1 pal",
+    "description": "Reach the friendship level of Pal with 1 person",
+    "type": "friendship",
+    "friendshipLevel": "Pal",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 1,
+    "name": "Make 3 pals",
+    "description": "Reach the friendship level of Pal with 3 people",
+    "type": "friendship",
+    "friendshipLevel": "Pal",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 2,
+    "name": "Make 5 pals",
+    "description": "Reach the friendship level of Pal with 5 people",
+    "type": "friendship",
+    "friendshipLevel": "Pal",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 3,
+    "name": "Make 10 pals",
+    "description": "Reach the friendship level of Pal with 10 people",
+    "type": "friendship",
+    "friendshipLevel": "Pal",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 4,
+    "name": "Make 20 pals",
+    "description": "Reach the friendship level of Pal with 20 people",
+    "type": "friendship",
+    "friendshipLevel": "Pal",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 5,
+    "name": "Make 30 pals",
+    "description": "Reach the friendship level of Pal with 30 people",
+    "type": "friendship",
+    "friendshipLevel": "Pal",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 6,
+    "name": "Make 40 pals",
+    "description": "Reach the friendship level of Pal with 40 people",
+    "type": "friendship",
+    "friendshipLevel": "Pal",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 7,
+    "name": "Make 50 pals",
+    "description": "Reach the friendship level of Pal with 50 people",
+    "type": "friendship",
+    "friendshipLevel": "Pal",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 8,
+    "name": "Make 1 buddy",
+    "description": "Reach the friendship level of Buddy with 1 person",
+    "type": "friendship",
+    "friendshipLevel": "Buddy",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 9,
+    "name": "Make 3 buddies",
+    "description": "Reach the friendship level of Buddy with 3 people",
+    "type": "friendship",
+    "friendshipLevel": "Buddy",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 10,
+    "name": "Make 5 buddies",
+    "description": "Reach the friendship level of Buddy with 5 people",
+    "type": "friendship",
+    "friendshipLevel": "Buddy",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 11,
+    "name": "Make 10 buddies",
+    "description": "Reach the friendship level of Buddy with 10 people",
+    "type": "friendship",
+    "friendshipLevel": "Buddy",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 12,
+    "name": "Make 20 buddies",
+    "description": "Reach the friendship level of Buddy with 20 people",
+    "type": "friendship",
+    "friendshipLevel": "Buddy",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 13,
+    "name": "Make 30 buddies",
+    "description": "Reach the friendship level of Buddy with 30 people",
+    "type": "friendship",
+    "friendshipLevel": "Buddy",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 14,
+    "name": "Make 40 buddies",
+    "description": "Reach the friendship level of Buddy with 40 people",
+    "type": "friendship",
+    "friendshipLevel": "Buddy",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 15,
+    "name": "Make 50 buddies",
+    "description": "Reach the friendship level of Buddy with 50 people",
+    "type": "friendship",
+    "friendshipLevel": "Buddy",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 16,
+    "name": "Make 1 friend",
+    "description": "Reach the friendship level of Friend with 1 person",
+    "type": "friendship",
+    "friendshipLevel": "Friend",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 17,
+    "name": "Make 3 friends",
+    "description": "Reach the friendship level of Friend with 3 people",
+    "type": "friendship",
+    "friendshipLevel": "Friend",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 18,
+    "name": "Make 5 friends",
+    "description": "Reach the friendship level of Friend with 5 people",
+    "type": "friendship",
+    "friendshipLevel": "Friend",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 19,
+    "name": "Make 10 friends",
+    "description": "Reach the friendship level of Friend with 10 people",
+    "type": "friendship",
+    "friendshipLevel": "Friend",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 20,
+    "name": "Make 20 friends",
+    "description": "Reach the friendship level of Friend with 20 people",
+    "type": "friendship",
+    "friendshipLevel": "Friend",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 21,
+    "name": "Make 30 friends",
+    "description": "Reach the friendship level of Friend with 30 people",
+    "type": "friendship",
+    "friendshipLevel": "Friend",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 22,
+    "name": "Make 40 friends",
+    "description": "Reach the friendship level of Friend with 40 people",
+    "type": "friendship",
+    "friendshipLevel": "Friend",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 23,
+    "name": "Make 50 friends",
+    "description": "Reach the friendship level of Friend with 50 people",
+    "type": "friendship",
+    "friendshipLevel": "Friend",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 24,
+    "name": "Make 1 good friend",
+    "description": "Reach the friendship level of Good Friend with 1 person",
+    "type": "friendship",
+    "friendshipLevel": "Good Friend",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 25,
+    "name": "Make 3 good friends",
+    "description": "Reach the friendship level of Good Friend with 3 people",
+    "type": "friendship",
+    "friendshipLevel": "Good Friend",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 26,
+    "name": "Make 5 good friends",
+    "description": "Reach the friendship level of Good Friend with 5 people",
+    "type": "friendship",
+    "friendshipLevel": "Good Friend",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 27,
+    "name": "Make 10 good friends",
+    "description": "Reach the friendship level of Good Friend with 10 people",
+    "type": "friendship",
+    "friendshipLevel": "Good Friend",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 28,
+    "name": "Make 20 good friends",
+    "description": "Reach the friendship level of Good Friend with 20 people",
+    "type": "friendship",
+    "friendshipLevel": "Good Friend",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 29,
+    "name": "Make 30 good friends",
+    "description": "Reach the friendship level of Good Friend with 30 people",
+    "type": "friendship",
+    "friendshipLevel": "Good Friend",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 30,
+    "name": "Make 40 good friends",
+    "description": "Reach the friendship level of Good Friend with 40 people",
+    "type": "friendship",
+    "friendshipLevel": "Good Friend",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 31,
+    "name": "Make 50 good friends",
+    "description": "Reach the friendship level of Good Friend with 50 people",
+    "type": "friendship",
+    "friendshipLevel": "Good Friend",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 32,
+    "name": "Make 1 great friend",
+    "description": "Reach the friendship level of Great Friend with 1 person",
+    "type": "friendship",
+    "friendshipLevel": "Great Friend",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 33,
+    "name": "Make 3 great friends",
+    "description": "Reach the friendship level of Great Friend with 3 people",
+    "type": "friendship",
+    "friendshipLevel": "Great Friend",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 34,
+    "name": "Make 5 great friends",
+    "description": "Reach the friendship level of Great Friend with 5 people",
+    "type": "friendship",
+    "friendshipLevel": "Great Friend",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 35,
+    "name": "Make 10 great friends",
+    "description": "Reach the friendship level of Great Friend with 10 people",
+    "type": "friendship",
+    "friendshipLevel": "Great Friend",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 36,
+    "name": "Make 20 great friends",
+    "description": "Reach the friendship level of Great Friend with 20 people",
+    "type": "friendship",
+    "friendshipLevel": "Great Friend",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 37,
+    "name": "Make 30 great friends",
+    "description": "Reach the friendship level of Great Friend with 30 people",
+    "type": "friendship",
+    "friendshipLevel": "Great Friend",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 38,
+    "name": "Make 40 great friends",
+    "description": "Reach the friendship level of Great Friend with 40 people",
+    "type": "friendship",
+    "friendshipLevel": "Great Friend",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 39,
+    "name": "Make 50 great friends",
+    "description": "Reach the friendship level of Great Friend with 50 people",
+    "type": "friendship",
+    "friendshipLevel": "Great Friend",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 40,
+    "name": "Make 1 close friend",
+    "description": "Reach the friendship level of Close Friend with 1 person",
+    "type": "friendship",
+    "friendshipLevel": "Close Friend",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 41,
+    "name": "Make 3 close friends",
+    "description": "Reach the friendship level of Close Friend with 3 people",
+    "type": "friendship",
+    "friendshipLevel": "Close Friend",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 42,
+    "name": "Make 5 close friends",
+    "description": "Reach the friendship level of Close Friend with 5 people",
+    "type": "friendship",
+    "friendshipLevel": "Close Friend",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 43,
+    "name": "Make 10 close friends",
+    "description": "Reach the friendship level of Close Friend with 10 people",
+    "type": "friendship",
+    "friendshipLevel": "Close Friend",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 44,
+    "name": "Make 20 close friends",
+    "description": "Reach the friendship level of Close Friend with 20 people",
+    "type": "friendship",
+    "friendshipLevel": "Close Friend",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 45,
+    "name": "Make 30 close friends",
+    "description": "Reach the friendship level of Close Friend with 30 people",
+    "type": "friendship",
+    "friendshipLevel": "Close Friend",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 46,
+    "name": "Make 40 close friends",
+    "description": "Reach the friendship level of Close Friend with 40 people",
+    "type": "friendship",
+    "friendshipLevel": "Close Friend",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 47,
+    "name": "Make 50 close friends",
+    "description": "Reach the friendship level of Close Friend with 50 people",
+    "type": "friendship",
+    "friendshipLevel": "Close Friend",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 48,
+    "name": "Make 1 inseparable friend",
+    "description": "Reach the friendship level of Inseparable with 1 person",
+    "type": "friendship",
+    "friendshipLevel": "Inseparable",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 49,
+    "name": "Make 3 inseparable friends",
+    "description": "Reach the friendship level of Inseparable with 3 people",
+    "type": "friendship",
+    "friendshipLevel": "Inseparable",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 50,
+    "name": "Make 5 inseparable friends",
+    "description": "Reach the friendship level of Inseparable with 5 people",
+    "type": "friendship",
+    "friendshipLevel": "Inseparable",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 51,
+    "name": "Make 10 inseparable friends",
+    "description": "Reach the friendship level of Inseparable with 10 people",
+    "type": "friendship",
+    "friendshipLevel": "Inseparable",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 52,
+    "name": "Make 20 inseparable friends",
+    "description": "Reach the friendship level of Inseparable with 20 people",
+    "type": "friendship",
+    "friendshipLevel": "Inseparable",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 53,
+    "name": "Make 30 inseparable friends",
+    "description": "Reach the friendship level of Inseparable with 30 people",
+    "type": "friendship",
+    "friendshipLevel": "Inseparable",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 54,
+    "name": "Make 40 inseparable friends",
+    "description": "Reach the friendship level of Inseparable with 40 people",
+    "type": "friendship",
+    "friendshipLevel": "Inseparable",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 55,
+    "name": "Make 50 inseparable friends",
+    "description": "Reach the friendship level of Inseparable with 50 people",
+    "type": "friendship",
+    "friendshipLevel": "Inseparable",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 56,
+    "name": "Make 1 best friend",
+    "description": "Reach the friendship level of Best Friend with 1 person",
+    "type": "friendship",
+    "friendshipLevel": "Best Friend",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 57,
+    "name": "Make 3 best friends",
+    "description": "Reach the friendship level of Best Friend with 3 people",
+    "type": "friendship",
+    "friendshipLevel": "Best Friend",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 58,
+    "name": "Make 5 best friends",
+    "description": "Reach the friendship level of Best Friend with 5 people",
+    "type": "friendship",
+    "friendshipLevel": "Best Friend",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 59,
+    "name": "Make 10 best friends",
+    "description": "Reach the friendship level of Best Friend with 10 people",
+    "type": "friendship",
+    "friendshipLevel": "Best Friend",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 60,
+    "name": "Make 20 best friends",
+    "description": "Reach the friendship level of Best Friend with 20 people",
+    "type": "friendship",
+    "friendshipLevel": "Best Friend",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 61,
+    "name": "Make 30 best friends",
+    "description": "Reach the friendship level of Best Friend with 30 people",
+    "type": "friendship",
+    "friendshipLevel": "Best Friend",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 62,
+    "name": "Make 40 best friends",
+    "description": "Reach the friendship level of Best Friend with 40 people",
+    "type": "friendship",
+    "friendshipLevel": "Best Friend",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 63,
+    "name": "Make 50 best friends",
+    "description": "Reach the friendship level of Best Friend with 50 people",
+    "type": "friendship",
+    "friendshipLevel": "Best Friend",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 64,
+    "name": "Make 1 BFF",
+    "description": "Reach the friendship level of BFF with 1 person",
+    "type": "friendship",
+    "friendshipLevel": "BFF",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 65,
+    "name": "Make 3 BFFs",
+    "description": "Reach the friendship level of BFF with 3 people",
+    "type": "friendship",
+    "friendshipLevel": "BFF",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 66,
+    "name": "Make 5 BFFs",
+    "description": "Reach the friendship level of BFF with 5 people",
+    "type": "friendship",
+    "friendshipLevel": "BFF",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 67,
+    "name": "Make 10 BFFs",
+    "description": "Reach the friendship level of BFF with 10 people",
+    "type": "friendship",
+    "friendshipLevel": "BFF",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 68,
+    "name": "Make 20 BFFs",
+    "description": "Reach the friendship level of BFF with 20 people",
+    "type": "friendship",
+    "friendshipLevel": "BFF",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 69,
+    "name": "Make 30 BFFs",
+    "description": "Reach the friendship level of BFF with 30 people",
+    "type": "friendship",
+    "friendshipLevel": "BFF",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 70,
+    "name": "Make 40 BFFs",
+    "description": "Reach the friendship level of BFF with 40 people",
+    "type": "friendship",
+    "friendshipLevel": "BFF",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 71,
+    "name": "Make 50 BFFs",
+    "description": "Reach the friendship level of BFF with 50 people",
+    "type": "friendship",
+    "friendshipLevel": "BFF",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 72,
+    "name": "Become interested",
+    "description": "Reach the romance level of Interested",
+    "type": "romance",
+    "romanceLevel": "Interested",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 73,
+    "name": "Become romantic",
+    "description": "Reach the romance level of Romantic",
+    "type": "romance",
+    "romanceLevel": "Romantic",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 74,
+    "name": "Become enamored",
+    "description": "Reach the romance level of Enamored",
+    "type": "romance",
+    "romanceLevel": "Enamored",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 75,
+    "name": "Become harmonious",
+    "description": "Reach the romance level of Harmonious",
+    "type": "romance",
+    "romanceLevel": "Harmonious",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 76,
+    "name": "Become committed",
+    "description": "Reach the romance level of Committed",
+    "type": "romance",
+    "romanceLevel": "Committed",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 77,
+    "name": "Become devoted",
+    "description": "Reach the romance level of Devoted",
+    "type": "romance",
+    "romanceLevel": "Devoted",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 78,
+    "name": "Become cherished",
+    "description": "Reach the romance level of Cherished",
+    "type": "romance",
+    "romanceLevel": "Cherished",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 79,
+    "name": "Fall in love",
+    "description": "Reach the romance level of In Love",
+    "type": "romance",
+    "romanceLevel": "In Love",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 80,
+    "name": "Find your soulmate",
+    "description": "Reach the romance level of Soulmate",
+    "type": "romance",
+    "romanceLevel": "Soulmate",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 81,
+    "name": "Complete 1 quest",
+    "description": "Successfully complete 1 quest",
+    "type": "quest",
+    "amount": 1,
+    "attained": false
+  },
+  {
+    "id": 82,
+    "name": "Complete 3 quests",
+    "description": "Successfully complete 3 quests",
+    "type": "quest",
+    "amount": 3,
+    "attained": false
+  },
+  {
+    "id": 83,
+    "name": "Complete 5 quests",
+    "description": "Successfully complete 5 quests",
+    "type": "quest",
+    "amount": 5,
+    "attained": false
+  },
+  {
+    "id": 84,
+    "name": "Complete 10 quests",
+    "description": "Successfully complete 10 quests",
+    "type": "quest",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 85,
+    "name": "Complete 20 quests",
+    "description": "Successfully complete 20 quests",
+    "type": "quest",
+    "amount": 20,
+    "attained": false
+  },
+  {
+    "id": 86,
+    "name": "Complete 30 quests",
+    "description": "Successfully complete 30 quests",
+    "type": "quest",
+    "amount": 30,
+    "attained": false
+  },
+  {
+    "id": 87,
+    "name": "Complete 40 quests",
+    "description": "Successfully complete 40 quests",
+    "type": "quest",
+    "amount": 40,
+    "attained": false
+  },
+  {
+    "id": 88,
+    "name": "Complete 50 quests",
+    "description": "Successfully complete 50 quests",
+    "type": "quest",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 89,
+    "name": "Complete 60 quests",
+    "description": "Successfully complete 60 quests",
+    "type": "quest",
+    "amount": 60,
+    "attained": false
+  },
+  {
+    "id": 90,
+    "name": "Complete 70 quests",
+    "description": "Successfully complete 70 quests",
+    "type": "quest",
+    "amount": 70,
+    "attained": false
+  },
+  {
+    "id": 91,
+    "name": "Complete 80 quests",
+    "description": "Successfully complete 80 quests",
+    "type": "quest",
+    "amount": 80,
+    "attained": false
+  },
+  {
+    "id": 92,
+    "name": "Complete 90 quests",
+    "description": "Successfully complete 90 quests",
+    "type": "quest",
+    "amount": 90,
+    "attained": false
+  },
+  {
+    "id": 93,
+    "name": "Complete 100 quests",
+    "description": "Successfully complete 100 quests",
+    "type": "quest",
+    "amount": 100,
+    "attained": false
+  },
+  {
+    "id": 94,
+    "name": "Reach 10 creativity",
+    "description": "Raise your creativity skill to 10",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 95,
+    "name": "Reach 50 creativity",
+    "description": "Raise your creativity skill to 50",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 96,
+    "name": "Reach 100 creativity",
+    "description": "Raise your creativity skill to 100",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 100,
+    "attained": false
+  },
+  {
+    "id": 97,
+    "name": "Reach 500 creativity",
+    "description": "Raise your creativity skill to 500",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 500,
+    "attained": false
+  },
+  {
+    "id": 98,
+    "name": "Reach 1,000 creativity",
+    "description": "Raise your creativity skill to 1,000",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 1000,
+    "attained": false
+  },
+  {
+    "id": 99,
+    "name": "Reach 5,000 creativity",
+    "description": "Raise your creativity skill to 5,000",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 5000,
+    "attained": false
+  },
+  {
+    "id": 100,
+    "name": "Reach 10,000 creativity",
+    "description": "Raise your creativity skill to 10,000",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 10000,
+    "attained": false
+  },
+  {
+    "id": 101,
+    "name": "Reach 50,000 creativity",
+    "description": "Raise your creativity skill to 50,000",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 50000,
+    "attained": false
+  },
+  {
+    "id": 102,
+    "name": "Reach 100,000 creativity",
+    "description": "Raise your creativity skill to 100,000",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 100000,
+    "attained": false
+  },
+  {
+    "id": 103,
+    "name": "Reach 500,000 creativity",
+    "description": "Raise your creativity skill to 500,000",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 500000,
+    "attained": false
+  },
+  {
+    "id": 104,
+    "name": "Reach 1,000,000 creativity",
+    "description": "Raise your creativity skill to 1,000,000",
+    "type": "skill",
+    "skillName": "creativity",
+    "amount": 1000000,
+    "attained": false
+  },
+  {
+    "id": 105,
+    "name": "Reach 10 charisma",
+    "description": "Raise your charisma skill to 10",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 106,
+    "name": "Reach 50 charisma",
+    "description": "Raise your charisma skill to 50",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 107,
+    "name": "Reach 100 charisma",
+    "description": "Raise your charisma skill to 100",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 100,
+    "attained": false
+  },
+  {
+    "id": 108,
+    "name": "Reach 500 charisma",
+    "description": "Raise your charisma skill to 500",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 500,
+    "attained": false
+  },
+  {
+    "id": 109,
+    "name": "Reach 1,000 charisma",
+    "description": "Raise your charisma skill to 1,000",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 1000,
+    "attained": false
+  },
+  {
+    "id": 110,
+    "name": "Reach 5,000 charisma",
+    "description": "Raise your charisma skill to 5,000",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 5000,
+    "attained": false
+  },
+  {
+    "id": 111,
+    "name": "Reach 10,000 charisma",
+    "description": "Raise your charisma skill to 10,000",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 10000,
+    "attained": false
+  },
+  {
+    "id": 112,
+    "name": "Reach 50,000 charisma",
+    "description": "Raise your charisma skill to 50,000",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 50000,
+    "attained": false
+  },
+  {
+    "id": 113,
+    "name": "Reach 100,000 charisma",
+    "description": "Raise your charisma skill to 100,000",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 100000,
+    "attained": false
+  },
+  {
+    "id": 114,
+    "name": "Reach 500,000 charisma",
+    "description": "Raise your charisma skill to 500,000",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 500000,
+    "attained": false
+  },
+  {
+    "id": 115,
+    "name": "Reach 1,000,000 charisma",
+    "description": "Raise your charisma skill to 1,000,000",
+    "type": "skill",
+    "skillName": "charisma",
+    "amount": 1000000,
+    "attained": false
+  },
+  {
+    "id": 116,
+    "name": "Reach 10 gaming",
+    "description": "Raise your gaming skill to 10",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 117,
+    "name": "Reach 50 gaming",
+    "description": "Raise your gaming skill to 50",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 118,
+    "name": "Reach 100 gaming",
+    "description": "Raise your gaming skill to 100",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 100,
+    "attained": false
+  },
+  {
+    "id": 119,
+    "name": "Reach 500 gaming",
+    "description": "Raise your gaming skill to 500",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 500,
+    "attained": false
+  },
+  {
+    "id": 120,
+    "name": "Reach 1,000 gaming",
+    "description": "Raise your gaming skill to 1,000",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 1000,
+    "attained": false
+  },
+  {
+    "id": 121,
+    "name": "Reach 5,000 gaming",
+    "description": "Raise your gaming skill to 5,000",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 5000,
+    "attained": false
+  },
+  {
+    "id": 122,
+    "name": "Reach 10,000 gaming",
+    "description": "Raise your gaming skill to 10,000",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 10000,
+    "attained": false
+  },
+  {
+    "id": 123,
+    "name": "Reach 50,000 gaming",
+    "description": "Raise your gaming skill to 50,000",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 50000,
+    "attained": false
+  },
+  {
+    "id": 124,
+    "name": "Reach 100,000 gaming",
+    "description": "Raise your gaming skill to 100,000",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 100000,
+    "attained": false
+  },
+  {
+    "id": 125,
+    "name": "Reach 500,000 gaming",
+    "description": "Raise your gaming skill to 500,000",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 500000,
+    "attained": false
+  },
+  {
+    "id": 126,
+    "name": "Reach 1,000,000 gaming",
+    "description": "Raise your gaming skill to 1,000,000",
+    "type": "skill",
+    "skillName": "gaming",
+    "amount": 1000000,
+    "attained": false
+  },
+  {
+    "id": 127,
+    "name": "Reach 10 fitness",
+    "description": "Raise your fitness skill to 10",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 128,
+    "name": "Reach 50 fitness",
+    "description": "Raise your fitness skill to 50",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 129,
+    "name": "Reach 100 fitness",
+    "description": "Raise your fitness skill to 100",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 100,
+    "attained": false
+  },
+  {
+    "id": 130,
+    "name": "Reach 500 fitness",
+    "description": "Raise your fitness skill to 500",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 500,
+    "attained": false
+  },
+  {
+    "id": 131,
+    "name": "Reach 1,000 fitness",
+    "description": "Raise your fitness skill to 1,000",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 1000,
+    "attained": false
+  },
+  {
+    "id": 132,
+    "name": "Reach 5,000 fitness",
+    "description": "Raise your fitness skill to 5,000",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 5000,
+    "attained": false
+  },
+  {
+    "id": 133,
+    "name": "Reach 10,000 fitness",
+    "description": "Raise your fitness skill to 10,000",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 10000,
+    "attained": false
+  },
+  {
+    "id": 134,
+    "name": "Reach 50,000 fitness",
+    "description": "Raise your fitness skill to 50,000",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 50000,
+    "attained": false
+  },
+  {
+    "id": 135,
+    "name": "Reach 100,000 fitness",
+    "description": "Raise your fitness skill to 100,000",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 100000,
+    "attained": false
+  },
+  {
+    "id": 136,
+    "name": "Reach 500,000 fitness",
+    "description": "Raise your fitness skill to 500,000",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 500000,
+    "attained": false
+  },
+  {
+    "id": 137,
+    "name": "Reach 1,000,000 fitness",
+    "description": "Raise your fitness skill to 1,000,000",
+    "type": "skill",
+    "skillName": "fitness",
+    "amount": 1000000,
+    "attained": false
+  },
+  {
+    "id": 138,
+    "name": "Reach 10 nature",
+    "description": "Raise your nature skill to 10",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 139,
+    "name": "Reach 50 nature",
+    "description": "Raise your nature skill to 50",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 140,
+    "name": "Reach 100 nature",
+    "description": "Raise your nature skill to 100",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 100,
+    "attained": false
+  },
+  {
+    "id": 141,
+    "name": "Reach 500 nature",
+    "description": "Raise your nature skill to 500",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 500,
+    "attained": false
+  },
+  {
+    "id": 142,
+    "name": "Reach 1,000 nature",
+    "description": "Raise your nature skill to 1,000",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 1000,
+    "attained": false
+  },
+  {
+    "id": 143,
+    "name": "Reach 5,000 nature",
+    "description": "Raise your nature skill to 5,000",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 5000,
+    "attained": false
+  },
+  {
+    "id": 144,
+    "name": "Reach 10,000 nature",
+    "description": "Raise your nature skill to 10,000",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 10000,
+    "attained": false
+  },
+  {
+    "id": 145,
+    "name": "Reach 50,000 nature",
+    "description": "Raise your nature skill to 50,000",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 50000,
+    "attained": false
+  },
+  {
+    "id": 146,
+    "name": "Reach 100,000 nature",
+    "description": "Raise your nature skill to 100,000",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 100000,
+    "attained": false
+  },
+  {
+    "id": 147,
+    "name": "Reach 500,000 nature",
+    "description": "Raise your nature skill to 500,000",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 500000,
+    "attained": false
+  },
+  {
+    "id": 148,
+    "name": "Reach 1,000,000 nature",
+    "description": "Raise your nature skill to 1,000,000",
+    "type": "skill",
+    "skillName": "nature",
+    "amount": 1000000,
+    "attained": false
+  },
+  {
+    "id": 149,
+    "name": "Reach 10 logic",
+    "description": "Raise your logic skill to 10",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 10,
+    "attained": false
+  },
+  {
+    "id": 150,
+    "name": "Reach 50 logic",
+    "description": "Raise your logic skill to 50",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 50,
+    "attained": false
+  },
+  {
+    "id": 151,
+    "name": "Reach 100 logic",
+    "description": "Raise your logic skill to 100",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 100,
+    "attained": false
+  },
+  {
+    "id": 152,
+    "name": "Reach 500 logic",
+    "description": "Raise your logic skill to 500",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 500,
+    "attained": false
+  },
+  {
+    "id": 153,
+    "name": "Reach 1,000 logic",
+    "description": "Raise your logic skill to 1,000",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 1000,
+    "attained": false
+  },
+  {
+    "id": 154,
+    "name": "Reach 5,000 logic",
+    "description": "Raise your logic skill to 5,000",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 5000,
+    "attained": false
+  },
+  {
+    "id": 155,
+    "name": "Reach 10,000 logic",
+    "description": "Raise your logic skill to 10,000",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 10000,
+    "attained": false
+  },
+  {
+    "id": 156,
+    "name": "Reach 50,000 logic",
+    "description": "Raise your logic skill to 50,000",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 50000,
+    "attained": false
+  },
+  {
+    "id": 157,
+    "name": "Reach 100,000 logic",
+    "description": "Raise your logic skill to 100,000",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 100000,
+    "attained": false
+  },
+  {
+    "id": 158,
+    "name": "Reach 500,000 logic",
+    "description": "Raise your logic skill to 500,000",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 500000,
+    "attained": false
+  },
+  {
+    "id": 159,
+    "name": "Reach 1,000,000 logic",
+    "description": "Raise your logic skill to 1,000,000",
+    "type": "skill",
+    "skillName": "logic",
+    "amount": 1000000,
+    "attained": false
+  }
+]

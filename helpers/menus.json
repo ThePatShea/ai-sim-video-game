@@ -1,0 +1,14 @@
+{
+  "start": {
+    "image": "/images/menus/start.jpeg",
+    "music": "/sounds/menus/map.mp3"
+  },
+  "map": {
+    "image": "/images/menus/map.jpeg",
+    "music": "/sounds/menus/map.mp3"
+  },
+  "date": {
+    "image": "/images/menus/map.jpeg",
+    "music": "/sounds/menus/date.mp3"
+  }
+}

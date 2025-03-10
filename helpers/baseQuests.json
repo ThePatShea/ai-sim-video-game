@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "name": "Save Pixie's necklace",
+    "started": false,
+    "completed": false,
+    "objectives": [
+      {
+        "characterId": 0,
+        "description": "Pixie's grandmother left her her necklace in her will. Pixie's evil sister Trixie stole the necklace from Pixie and plans to sell it on the black market. Pixie asks you (the user) to find Trixie can convince her to give you the necklace."
+      }
+    ]
+  }
+]

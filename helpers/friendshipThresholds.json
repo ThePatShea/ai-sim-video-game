@@ -1,0 +1,22 @@
+{
+  "BFF": 100000,
+  "Best Friend": 50000,
+  "Inseparable": 10000,
+  "Close Friend": 5000,
+  "Great Friend": 1000,
+  "Good Friend": 500,
+  "Friend": 100,
+  "Buddy": 50,
+  "Pal": 25,
+  "Acquaintance": 0,
+  "Opponent": -1,
+  "Rival": -25,
+  "Foe": -50,
+  "Adversary": -100,
+  "Antagonist": -500,
+  "Enemy": -1000,
+  "Villain": -5000,
+  "Malefactor": -10000,
+  "Nemesis": -50000,
+  "Arch Nemesis": -100000
+}

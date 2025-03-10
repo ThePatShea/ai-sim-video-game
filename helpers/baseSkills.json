@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "creativity",
+    "level": 0
+  },
+  {
+    "id": 1,
+    "name": "charisma",
+    "level": 0
+  },
+  {
+    "id": 2,
+    "name": "gaming",
+    "level": 0
+  },
+  {
+    "id": 3,
+    "name": "fitness",
+    "level": 0
+  },
+  {
+    "id": 4,
+    "name": "nature",
+    "level": 0
+  },
+  {
+    "id": 5,
+    "name": "logic",
+    "level": 0
+  }
+]

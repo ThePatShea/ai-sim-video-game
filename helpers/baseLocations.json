@@ -1,0 +1,90 @@
+[
+  {
+    "id": 0,
+    "name": "Pirenio Park",
+    "description": "outdoor park",
+    "image": "/images/locations/the-park.jpeg",
+    "music": "/sounds/locations/the-park.mp3",
+    "characters": [0, 1],
+    "skillId": 4,
+    "locked": false
+  },
+  {
+    "id": 1,
+    "name": "Mythwood Mall",
+    "description": "luxurious indoor mall",
+    "image": "/images/locations/the-mall.jpeg",
+    "music": "/sounds/locations/the-mall.mp3",
+    "characters": [],
+    "skillId": 2,
+    "locked": false
+  },
+  {
+    "id": 2,
+    "name": "Thunderax Gym",
+    "description": "a gym",
+    "image": "/images/locations/the-gym.jpeg",
+    "music": "/sounds/locations/the-gym.mp3",
+    "characters": [0, 1],
+    "skillId": 3,
+    "locked": false
+  },
+  {
+    "id": 3,
+    "name": "Bliffindale Bar",
+    "description": "a bar",
+    "image": "/images/locations/the-bar.jpeg",
+    "music": "/sounds/locations/the-bar.mp3",
+    "characters": [0, 1],
+    "skillId": 1,
+    "locked": false
+  },
+  {
+    "id": 4,
+    "name": "Seastone University",
+    "description": "a university campus",
+    "image": "/images/locations/the-university.jpeg",
+    "music": "/sounds/locations/the-university.mp3",
+    "characters": [0, 1],
+    "skillId": 5,
+    "locked": true,
+    "unlock": {
+      "friendship": [
+        {
+          "friendshipLevel": "Pal",
+          "amount": 1
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Rockingham Restaurant",
+    "description": "the inside of a fancy restaurant",
+    "image": "/images/locations/the-restaurant.jpeg",
+    "music": "/sounds/locations/the-restaurant.mp3",
+    "characters": [0, 1],
+    "skillId": 0,
+    "locked": true,
+    "unlock": {
+      "friendship": [
+        {
+          "friendshipLevel": "Buddy",
+          "amount": 1
+        }
+      ],
+      "romance": [
+        {
+          "romanceLevel": "Romantic",
+          "amount": 1
+        }
+      ],
+      "skills": [
+        {
+          "name": "charisma",
+          "level": 100
+        }
+      ]
+    }
+  }
+]

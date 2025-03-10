@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Pixie",
+    "age": 22,
+    "gender": "female",
+    "personality": "Pixie is completely unpredictable. One minute, she's super happy. Then the next minute, she's furious. One minute later, she's profoundly upset. You never know what you'll get with her.",
+    "backstory": "Pixie grew up traveling from place to place. She never got to settle down anywhere and be part of a community.",
+    "appearance": "blonde hair, blue eyes, light skin, tank top, skirt",
+    "messages": [],
+    "dating": false,
+    "scores": {
+      "friendship": 0,
+      "romance": 0
+    }
+  },
+  {
+    "id": 1,
+    "name": "Ember",
+    "age": 23,
+    "gender": "female",
+    "personality": "Ember is a mean and hateful person. She is completely impossible to please.",
+    "backstory": "Ember grew up spoiled and rich.",
+    "appearance": "brown hair, brown eyes, white skin, red dress",
+    "messages": [],
+    "dating": false,
+    "scores": {
+      "friendship": 0,
+      "romance": 0
+    }
+  }
+]
